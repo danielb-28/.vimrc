@@ -31,7 +31,7 @@ set title
 set encoding=utf-8
 "Cursorline
 set cursorline
-"Remove o delay do esc (capslock) - quais sao os efeitos colaterais?
+"Remove o delay do esc (capslock)
 set noesckeys
 
 "YCM============================================================================================
